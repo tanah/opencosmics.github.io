@@ -7,7 +7,7 @@ date: 2014-07-18
 img: cosmic-pi-screenshot.png
 thumbnail: cosmic-pi-logo.png
 #alt: Cosmic Pi
-project-date: April 2014
+project-date: 2015
 project-link: http://cosmicpi.org
 #client: Start Bootstrap
 category: Hardware

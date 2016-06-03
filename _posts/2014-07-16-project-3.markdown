@@ -6,7 +6,7 @@ modal-id: 3
 date: 2014-07-16
 img: hisparc-screenshot.png
 thumbnail: hisparc-logo.png
-project-date: April 2015
+project-date: 2004
 category: Hardware
 description: HiSPARC offers students the opportunity to participate in real research, with the purpose of finding out more about these mysterious and rare cosmic particles. In addition, students participating in the experiment can use this for their profile paper for the final exam.
 

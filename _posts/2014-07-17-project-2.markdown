@@ -6,7 +6,7 @@ modal-id: 2
 date: 2014-07-17
 img: crayfis-screenshot.png
 thumbnail: crayfis-logo.png
-project-date: April 2014
+project-date: 2015
 project-link: http://crayfis.io/
 #client: Start Bootstrap
 category: Software
